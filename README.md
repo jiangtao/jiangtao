@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Vue3.0, VSCode, Better Build Tools**
 
-- 👯 I worked on [wudaima](https://www.wudaima.com)
+- 👯 I worked on [wudaima](https://www.wudaima.com) from 2018-2020
 
 - 📝 I regulary write articles on [https://github.com/jiangtao/blog](https://github.com/jiangtao/blog)
 
