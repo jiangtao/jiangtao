@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm jiangtao</h1>
-<h3 align="center">A FrontEnd Engineer in China, good at JavaScript， Node.js, Vue</h3>
+<h1 align="center">Hi 👋, 我是江涛</h1>
+<h3 align="center">前端一枚, 擅长 Vue, Node, Mongo, 了解 Python</h3>
 
 
-<p align="right" style="display: flex;">
+<p align="left" style="display: flex;height: 150px;justify-content: space-between;">
 <img src="https://github-readme-stats.vercel.app/api?username=jiangtao&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" alt="jiangtao" />
 <br>
 <img style="margin-left:5px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiangtao&layout=compact&hide=html" alt="jiangtao" />
@@ -10,12 +10,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jiangtao" alt="jiangtao" /> </p>
 
-- 🌱 I’m currently learning **Vue3.0, VSCode, Better Build Tools**
+- 🌱 正在学习 **Vue3.0, VSCode, 新的构建工具**, 欢迎交流
 
-- 👯 I worked on [wudaima](https://www.wudaima.com) from 2018-2020
+- 👯 目前就职于美团点评, 内推可联系我 2020-Now
 
-- 📝 I regulary write articles on [Blog](https://github.com/jiangtao/blog)
+- 👯 曾就职于 [宜创无代码](https://www.wudaima.com) 2018-2020
 
-- 💬 Ask me about **Css, Javascript, Node.js, Mongo**
+- 📝 平常会写一写文章在 [Blog](https://github.com/jiangtao/blog)
 
-- 📫 How to reach me **w3cfuns@qq.com**
+- 💬 欢迎交流 **Css, Javascript, Node.js, Mongo, MySQL** 相关的只是
+
+- 📫 如何联系我 **w3cfuns@qq.com**
