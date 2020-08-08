@@ -8,7 +8,7 @@
 </p>
 
 <p class="d-flex" align="right"> <img src="https://komarev.com/ghpvc/?username=jiangtao" alt="jiangtao" /> 
-<img src="https://raw.githubusercontent.com/jiangtao/blog/master/assets/wechat/wechat.jpeg" / >
+<img width="350" src="https://raw.githubusercontent.com/jiangtao/blog/master/assets/wechat/wechat.jpeg" / >
 </p>
 
 - 🌱 正在学习 **Vue3.0, VSCode, 新的构建工具**, 欢迎交流
