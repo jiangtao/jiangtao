@@ -17,7 +17,7 @@
 
 - 👯 目前就职于美团点评 ( 2020-Now ), [内推](https://github.com/neitui/jobs)可联系我
 
-- 👯 曾就职于 [宜创无代码](https://www.wudaima.com) ( 2018-2020 ), 持续对低代码领域，搭建领域感兴趣，交流可聊~
+- 👯 曾就职于 [宜创无代码](https://www.wudaima.com) ( 2018-2020 ), 持续对低代码领域, 搭建领域感兴趣, 交流可聊~
 
 - 📝 平常会写一写文章在 [Blog](https://github.com/jiangtao/blog)
 
