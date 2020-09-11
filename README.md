@@ -15,7 +15,7 @@
 
 - 🌱 正在学习 **Vue3.0, VSCode, 新的构建工具**, 欢迎交流
 
-- 👯 目前就职于美团点评 ( 2020-Now ), [内推](https://github.com/neitui/jobs)可联系我。招聘简历投递至 [w3cfuns@qq.com](mailto:w3cfuns@qq.com)
+- 👯 目前就职于美团点评 ( 2020-Now ), [内推](https://github.com/neitui/jobs)可联系我
 
 - 👯 曾就职于 [宜创无代码](https://www.wudaima.com) ( 2018-2020 ), 持续对低代码领域, 搭建领域感兴趣, 交流可聊~
 
