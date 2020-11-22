@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, 我是江涛</h1>
-<h3 align="left">前端一枚, 佛系鞋码</h3>
+<h3 align="left">前端一枚, 专注产研提效</h3>
 
 <p align="left" class="d-flex" height="150px">
 <img src="https://github-readme-stats.jiangtao321.vercel.app/api?username=jiangtao&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" alt="jiangtao" />
@@ -15,7 +15,7 @@
 
 - 🌱 正在学习 **Vue3.0, VSCode, 新的构建工具**, 欢迎交流
 
-- 👯 目前就职于美团点评 ( 2020-Now ), [内推](https://github.com/neitui/jobs)可联系我
+- 👯 [内推美团](https://github.com/neitui/jobs)可联系我
 
 - 👯 曾就职于 [宜创无代码](https://www.wudaima.com) ( 2018-2020 ), 持续对低代码领域, 搭建领域感兴趣, 交流可聊~
 
