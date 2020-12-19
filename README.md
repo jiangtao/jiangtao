@@ -13,7 +13,7 @@
 <div align="left" class="d-flex">
 <img align="right" width="350" src="https://raw.githubusercontent.com/jiangtao/blog/master/assets/wechat/wechat.jpeg" / >
 
-- 🌱 正在学习 **Vue3.0, VSCode, 新的构建工具**, 欢迎交流
+- 🌱 正在学习 **VSCode, 新的构建工具**, 欢迎交流
 
 - 👯 [内推美团](https://github.com/neitui/jobs)可联系我
 
