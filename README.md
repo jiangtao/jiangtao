@@ -2,8 +2,9 @@
  * @Author: jiangtao
  * @LastEditors: jiangtao
  * @Date: 2021-02-25 21:40:32
- * @LastEditTime: 2021-02-25 22:34:46
+ * @LastEditTime: 2021-02-25 22:51:26
  * @Description: Resume
+ * @Reference https://github.com/primer/css
 -->
 <h1 align="left">Hi 👋, 我是江涛</h1>
 <h3 align="left">前端一枚, 专注产研提效 <img src="https://komarev.com/ghpvc/?username=jiangtao" alt="jiangtao" /></h3>
@@ -29,12 +30,7 @@
 <div class="d-flex">
     <img align="right" style="margin-left:5px;" src="https://github-readme-stats.jiangtao321.vercel.app/api/top-langs/?username=jiangtao&layout=compact&hide=html" alt="jiangtao" />
     <div>
-        <div style="
-            width: 420px;
-            display: inline-flex;
-            align-items: baseline;
-            justify-content: space-between;
-        ">
+        <div class="d-flex flex-justify-between flex-items-baseline">
             <h3>最新博文</h3>
             <a href="https://github.com/jiangtao/blog/issues?q=is%3Aopen+is%3Aissue">更多</a>
         </div>
