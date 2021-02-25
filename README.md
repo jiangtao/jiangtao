@@ -2,7 +2,7 @@
  * @Author: jiangtao
  * @LastEditors: jiangtao
  * @Date: 2021-02-25 21:40:32
- * @LastEditTime: 2021-02-25 22:51:26
+ * @LastEditTime: 2021-02-25 22:57:03
  * @Description: Resume
  * @Reference https://github.com/primer/css
 -->
@@ -29,12 +29,14 @@
 </div>
 <div class="d-flex">
     <img align="right" style="margin-left:5px;" src="https://github-readme-stats.jiangtao321.vercel.app/api/top-langs/?username=jiangtao&layout=compact&hide=html" alt="jiangtao" />
-    <div>
+    <div align="left">
         <div class="d-flex flex-justify-between flex-items-baseline">
             <h3>最新博文</h3>
-            <a href="https://github.com/jiangtao/blog/issues?q=is%3Aopen+is%3Aissue">更多</a>
+            <a align="right" href="https://github.com/jiangtao/blog/issues?q=is%3Aopen+is%3Aissue">更多</a>
         </div>
+        <div>
         <!-- BLOG-POST-LIST:START -->
         <!-- BLOG-POST-LIST:END -->
+        </div>
     </div>
 </div>
