@@ -2,7 +2,7 @@
  * @Author: jiangtao
  * @LastEditors: jiangtao
  * @Date: 2021-02-25 21:40:32
- * @LastEditTime: 2021-02-25 21:50:25
+ * @LastEditTime: 2021-02-25 22:25:03
  * @Description: Resume
 -->
 <h1 align="left">Hi 👋, 我是江涛</h1>
@@ -28,9 +28,9 @@
 </div>
 <div class="d-flex">
 <div class="d-flex" align="left">
-<h3>最新博文</h3>
+<img style="float: right" style="margin-left:5px;" src="https://github-readme-stats.jiangtao321.vercel.app/api/top-langs/?username=jiangtao&layout=compact&hide=html" alt="jiangtao" />
+<div style="overflow:hidden; width:460px;"><a style="float: right;" href="https://github.com/jiangtao/blog/issues?q=is%3Aopen+is%3Aissue">更多</a><h3>最新博文</h3></div>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 </div>
-<img align="right" style="margin-left:5px;" src="https://github-readme-stats.jiangtao321.vercel.app/api/top-langs/?username=jiangtao&layout=compact&hide=html" alt="jiangtao" />
 </div> 
