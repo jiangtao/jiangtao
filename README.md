@@ -29,4 +29,5 @@
 - [从一个爬虫初识puppeteer](https://imjiangtao.com/2017/11/08/puppeteer-start/)
 - [vue中的mixins实践](https://imjiangtao.com/2017/09/13/vue-mixin-apply/)
 - [xss live学习总结](https://imjiangtao.com/2017/09/13/xss-live/)
+- [将webp接入到vue项目](https://imjiangtao.com/2017/09/13/vue-webp/)
 <!-- BLOG-POST-LIST:END -->
