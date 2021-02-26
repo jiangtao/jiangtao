@@ -16,3 +16,4 @@ jobs:
         with:
           # comma-separated list of RSS feed urls
           feed_list: "https://www.imjiangtao.com/atom.xml"
+          max_post_count: 6
