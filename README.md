@@ -13,7 +13,7 @@
 
 - ✨ 我是江涛, 前端一枚, 专注产研提效
 - 🌱 正在学习 **VSCode, 构建工具**, 欢迎交流
-- 👯 [内推美团](https://github.com/neitui/jobs)可联系我，[详细 JD](https://github.com/jiangtao/blog/issues/29)
+- 👯 [内推美团](https://github.com/neitui/jobs)可联系我，[查看详细 JD](https://github.com/jiangtao/blog/issues/29)
 - 👯 曾就职于 [宜创无代码](https://www.wudaima.com) ( 2018-2020 ), 持续对低代码/搭建领域感兴趣.
 - 📝 平常会写一写文章在 [Blog](https://github.com/jiangtao/blog)
 - 💬 欢迎交流 **Css, Javascript, Node.js, Mongo, MySQL**
