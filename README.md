@@ -12,7 +12,7 @@
 <!--<img align="right" width="350" src="https://raw.githubusercontent.com/jiangtao/blog/master/assets/wechat/wechat.jpeg" / >-->
 
 - ✨ 我是江涛, 前端一枚, 专注产研提效
-- 🌱 正在学习 **VSCode, 构建工具**, 欢迎交流
+- 🌱 冲冲冲！
 - 👯 曾就职于 [宜创无代码](https://www.wudaima.com) ( 2018-2020 ), 持续对低代码/搭建领域感兴趣.
 - 📝 平常会写一写文章在 [Blog](https://github.com/jiangtao/blog)
 - 💬 欢迎交流 **Css, Javascript, Node.js, Mongo, MySQL**
