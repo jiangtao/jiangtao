@@ -13,7 +13,7 @@
 
 - ✨ 我是江涛, 前端一枚, 专注产研提效
 - 🌱 冲冲冲！
-- 👯 曾就职于 [宜创无代码](https://www.wudaima.com) ( 2018-2020 ), 持续对低代码/搭建领域感兴趣.
+- 👯 目前就职美团，曾就职于 [宜创无代码](https://www.wudaima.com) ( 2018-2020 )。持续对低代码/搭建领域感兴趣. 当前正在低代码业务交付效率侧探索
 - 📝 平常会写一写文章在 [Blog](https://github.com/jiangtao/blog)
 - 💬 欢迎交流 **Css, Javascript, Node.js, Mongo, MySQL**
 - 📫 如何联系我 **w3cfuns@qq.com**
