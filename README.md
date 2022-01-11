@@ -12,10 +12,10 @@
 <!--<img align="right" width="350" src="https://raw.githubusercontent.com/jiangtao/blog/master/assets/wechat/wechat.jpeg" / >-->
 
 - ✨ 我是江涛, 前端一枚, 专注产研提效
-- 🌱 冲冲冲！
-- 👯 目前就职美团，曾就职于 [宜创无代码](https://www.wudaima.com) ( 2018-2020 )。持续对低代码/搭建领域感兴趣. 当前正在低代码业务交付效率侧探索
+- 🌱 冲冲冲！奥利给！2022 加油！
+- 👯 目前就职美团，曾就职于 [宜创无代码](https://www.wudaima.com) ( 2018-2020 )。持续对低代码/搭建领域感兴趣. 当前正在探索低代码业务交付效率实践
 - 📝 平常会写一写文章在 [Blog](https://github.com/jiangtao/blog)
-- 💬 欢迎交流 **Css, Javascript, Node.js, Mongo, MySQL**
+- 💬 欢迎交流 **Css, Javascript, Node.js, Mongo, MySQL**， 略懂 py，php。
 - 📫 如何联系我 **w3cfuns@qq.com**
 
 <img align="right" style="margin-left:5px;" src="https://github-readme-stats.jiangtao321.vercel.app/api/top-langs/?username=jiangtao&layout=compact&hide=html" alt="jiangtao" />
