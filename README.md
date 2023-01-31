@@ -12,10 +12,10 @@
 
 - ✨ jiangtao, FrontEnd, Web devloper
 - 🌱 Make an all-out effort, 2023 🚀
-- 👯 Working in [meituan](https://github.com/meituan)，worked in [YiChuang wudaima](https://www.wudaima.com) ( 2018-2020 )。Loved at Lowcode/NoCode. Currently exploring low code business delivery efficiency practices.
-- 📝 [My Blog](https://github.com/jiangtao/blog), [Some Notes](https://www.yuque.com/imjt)
+- 👯 Working in [meituan](https://github.com/meituan)，worked in [YiChuang wudaima](https://www.wudaima.com)/2018-2020。Loved at Lowcode/NoCode. Currently exploring low code business delivery efficiency practices.
+- 📝 [Blog](https://github.com/jiangtao/blog) [YuQue Notes](https://www.yuque.com/imjt)
 - 💬 Skill: **CSS/Javascript/Node.js/Mongo/MySQL**
-- 📫 Contact me: **w3cfuns@qq.com**
+- 📫 Contact Me: **w3cfuns@qq.com**
 
 <img  width="360" align="right" src="https://github-readme-stats.jiangtao321.vercel.app/api/top-langs/?username=jiangtao&layout=compact&hide=html" alt="jiangtao" />
 
