@@ -6,7 +6,7 @@
  * @Description: Resume
 -->
 ### About
-<img align="right" src="https://github-readme-stats.jiangtao321.vercel.app/api?username=jiangtao&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" alt="jiangtao" />
+<img width="200px" align="right" src="https://github-readme-stats.jiangtao321.vercel.app/api?username=jiangtao&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" alt="jiangtao" />
 <div align="left" class="d-flex">
 <!--<img align="right" width="350" src="https://raw.githubusercontent.com/jiangtao/blog/master/assets/wechat/wechat.jpeg" / >-->
 
@@ -17,7 +17,7 @@
 - 💬 Skill: **CSS/Javascript/Node.js/Mongo/MySQL**
 - 📫 Contact me: **w3cfuns@qq.com**
 
-<img align="right" style="margin-left:5px; max-width: 120px;" src="https://github-readme-stats.jiangtao321.vercel.app/api/top-langs/?username=jiangtao&layout=compact&hide=html" alt="jiangtao" />
+<img align="right" style="margin-left:5px;" src="https://github-readme-stats.jiangtao321.vercel.app/api/top-langs/?username=jiangtao&layout=compact&hide=html" alt="jiangtao" />
 
 ### Posts [More](https://www.imjiangtao.com)
 
