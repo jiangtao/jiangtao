@@ -6,7 +6,7 @@
  * @Description: Resume
 -->
 ### About
-<img width="200px" align="right" src="https://github-readme-stats.jiangtao321.vercel.app/api?username=jiangtao&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" alt="jiangtao" />
+<img width="350" align="right" src="https://github-readme-stats.jiangtao321.vercel.app/api?username=jiangtao&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" alt="jiangtao" />
 <div align="left" class="d-flex">
 <!--<img align="right" width="350" src="https://raw.githubusercontent.com/jiangtao/blog/master/assets/wechat/wechat.jpeg" / >-->
 
