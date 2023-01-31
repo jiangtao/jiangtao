@@ -14,10 +14,10 @@
 - 🌱 Make an all-out effort, 2023 🚀
 - 👯 Working in [meituan](https://github.com/meituan)，worked in [YiChuang wudaima](https://www.wudaima.com) ( 2018-2020 )。Loved at Lowcode/NoCode. Currently exploring low code business delivery efficiency practices.
 - 📝 [My Blog](https://github.com/jiangtao/blog), [Some Notes](https://www.yuque.com/imjt)
-- 💬 Skill: **Css, Javascript, Node.js, Mongo, MySQL**
+- 💬 Skill: **CSS/Javascript/Node.js/Mongo/MySQL**
 - 📫 Contact me: **w3cfuns@qq.com**
 
-<img align="right" style="margin-left:5px;" src="https://github-readme-stats.jiangtao321.vercel.app/api/top-langs/?username=jiangtao&layout=compact&hide=html" alt="jiangtao" />
+<img align="right" style="margin-left:5px; max-width: 120px;" src="https://github-readme-stats.jiangtao321.vercel.app/api/top-langs/?username=jiangtao&layout=compact&hide=html" alt="jiangtao" />
 
 ### Posts [More](https://www.imjiangtao.com)
 
