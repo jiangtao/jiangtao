@@ -10,9 +10,9 @@
 <div align="left" class="d-flex">
 <!--<img align="right" width="350" src="https://raw.githubusercontent.com/jiangtao/blog/master/assets/wechat/wechat.jpeg" / >-->
 
-- ✨ jiangtao, FrontEnd, FullStack Devloper, focus on Web
-- 🌱 Make an all-out effort, 2023 🚀
-- 👯 Working in [meituan](https://github.com/meituan)，worked in [YiChuang wudaima](https://www.wudaima.com)/2018-2020。Loved at Lowcode/NoCode. Currently exploring low code business delivery efficiency practices.
+- ✨ jiangtao, FrontEnd, FullStack Devloper, Focus on Web/Hybrid/Electron/Node
+- 🌱 Find a job or chance in the feature 🚀
+- 👯 Worked in [meituan](https://github.com/meituan) 2020-2025，worked in [YiChuang wudaima](https://www.wudaima.com)/2018-2020。Loved at Lowcode/NoCode. Currently exploring low code business delivery efficiency practices.
 - 📝 [Blog](https://github.com/jiangtao/blog) [YuQue Notes](https://www.yuque.com/imjt)
 - 💬 Skill: **CSS/Javascript/Node.js/Mongo/MySQL**
 - 📫 Contact Me: **w3cfuns@qq.com**
