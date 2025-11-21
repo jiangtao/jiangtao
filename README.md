@@ -7,19 +7,22 @@
 -->
 ### About
 <img width="360" align="right" src="https://github-readme-stats-gray-one-87.vercel.app/api?username=jiangtao&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_rank=true" alt="jiangtao" />
-<div align="left" class="d-flex">
+<div align="left">
 <!--<img align="right" width="350" src="https://raw.githubusercontent.com/jiangtao/blog/master/assets/wechat/wechat.jpeg" / >-->
 
 - ✨ jiangtao, FrontEnd, FullStack Devloper, Focus on Web/Hybrid/Electron/Node
 - 🌱 Find a job or chance in the feature 🚀
-- 👯 Worked in [meituan](https://github.com/meituan) 2020-2025，worked in [YiChuang wudaima](https://www.wudaima.com)/2018-2020。Loved at Lowcode/NoCode. Currently exploring low code business delivery efficiency practices.
+- 👯 Worked in [meituan](https://github.com/meituan) 2020-2020，worked in [YiChuang wudaima](https://www.wudaima.com)/2018-2020。Loved at Lowcode/NoCode. Currently exploring low code business delivery efficiency practices.
 - 📝 [Blog](https://github.com/jiangtao/blog) [YuQue Notes](https://www.yuque.com/imjt)
 - 💬 Skill: **CSS/Javascript/Node.js/Mongo/MySQL**
 - 📫 Contact Me: **w3cfuns@qq.com**
-<div></div>
-<img  width="360" align="right" src="https://github-readme-stats-gray-one-87.vercel.app/api/top-langs/?username=jiangtao&layout=compact&hide=html" alt="jiangtao" />
+</div>
+
+<br clear="both"/>
 
 ### Posts [More](https://www.imjiangtao.com)
+<img width="360" align="right" src="https://github-readme-stats-gray-one-87.vercel.app/api/top-langs/?username=jiangtao&layout=compact&hide=html" alt="jiangtao" />
+<div align="left">
 
 <!-- BLOG-POST-LIST:START -->
 - [编译原理在前端应用](https://www.yuque.com/imjt/blog/qg05hg)
@@ -30,3 +33,4 @@
 - [xss live学习总结](https://imjiangtao.com/2017/09/13/xss-live/)
 - [将webp接入到vue项目](https://imjiangtao.com/2017/09/13/vue-webp/)
 <!-- BLOG-POST-LIST:END -->
+</div>
