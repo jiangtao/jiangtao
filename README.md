@@ -16,6 +16,7 @@
 - 📝 [Blog](https://github.com/jiangtao/blog) [YuQue Notes](https://www.yuque.com/imjt)
 - 💬 Skill: **CSS/Javascript/Node.js/Mongo/MySQL**
 - 📫 Contact Me: **w3cfuns@qq.com**
+- Groups：[X Groups](https://x.com/i/chat/group_join/g2009562676977119420/ZSb9v50Guf), 国内群+vx：jtss77
 </div>
 
 <br clear="both"/>
