@@ -10,12 +10,13 @@
 <div align="left">
 <!--<img align="right" width="350" src="https://raw.githubusercontent.com/jiangtao/blog/master/assets/wechat/wechat.jpeg" / >-->
 
-- ✨ jiangtao, FrontEnd, FullStack Devloper, Focus on Web/Hybrid/Electron/Node
+- ✨ jiangtao, FrontEnd, FullStack Devloper, Focus on Web/Hybrid/Electron/Node/RN
 - 🌱 Find a job or chance in the feature 🚀
 - 👯 Worked in [meituan](https://github.com/meituan) 2020-2020，worked in [YiChuang wudaima](https://www.wudaima.com)/2018-2020。Loved at Lowcode/NoCode. Currently exploring low code business delivery efficiency practices.
 - 📝 [Blog](https://github.com/jiangtao/blog) [YuQue Notes](https://www.yuque.com/imjt)
 - 💬 Skill: **CSS/Javascript/Node.js/Mongo/MySQL**
 - 📫 Contact Me: **w3cfuns@qq.com**
+- 💬 WeChat: jtss77, [Twitter](https://x.com/Jerret321)  
 - 🏘️ Groups：[X Groups](https://x.com/i/chat/group_join/g2009562676977119420/ZSb9v50Guf), WeChat Groups +vx：jtss77
 </div>
 
