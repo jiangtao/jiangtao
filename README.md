@@ -17,7 +17,7 @@
 - 💬 Skill: **CSS/Javascript/Node.js/Mongo/MySQL**
 - 📫 Contact Me: **w3cfuns@qq.com**
 - 💬 WeChat: jtss77, [Twitter](https://x.com/Jerret321)  
-- 🏘️ Groups：[X Groups](https://x.com/i/chat/group_join/g2009562676977119420/ZSb9v50Guf), WeChat Groups +vx：jtss77
+- 🏘️ Groups：[X Groups](https://x.com/i/chat/group_join/g2009562676977119420/ZSb9v50Guf), WeChat Groups +vx
 </div>
 
 <br clear="both"/>
