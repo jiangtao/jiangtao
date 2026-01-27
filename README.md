@@ -27,12 +27,12 @@
 <div align="left">
 
 <!-- BLOG-POST-LIST:START -->
-- [编译原理在前端应用](https://www.yuque.com/imjt/blog/qg05hg)
-- [搭建一个通用的脚手架](https://imjiangtao.com/2018/01/29/project-next-cli/)
-- [npm依赖版本锁定和管理](https://imjiangtao.com/2017/12/01/version-lock/)
-- [从一个爬虫初识puppeteer](https://imjiangtao.com/2017/11/08/puppeteer-start/)
-- [vue中的mixins实践](https://imjiangtao.com/2017/09/13/vue-mixin-apply/)
-- [xss live学习总结](https://imjiangtao.com/2017/09/13/xss-live/)
-- [将webp接入到vue项目](https://imjiangtao.com/2017/09/13/vue-webp/)
+- [Untitled](https://jiangtao.vercel.app/2026/01/27/puppeteer-start/)
+- [Untitled](https://jiangtao.vercel.app/2026/01/27/version-lock/)
+- [Untitled](https://jiangtao.vercel.app/2026/01/27/vue-mixin-apply/)
+- [Untitled](https://jiangtao.vercel.app/2026/01/27/vue-webp/)
+- [Untitled](https://jiangtao.vercel.app/2026/01/27/xss-live/)
+- [编译原理在前端应用](https://jiangtao.vercel.app/2022/08/18/compiler-in-fe/)
+- [搭建一个通用的脚手架](https://jiangtao.vercel.app/2018/01/29/project-next-cli/)
 <!-- BLOG-POST-LIST:END -->
 </div>
