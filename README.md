@@ -27,6 +27,7 @@
 <div align="left">
 
 <!-- BLOG-POST-LIST:START -->
+- [H5拍照功能Android中无法使用](https://jiangtao.vercel.app/2025/02/04/webview-file-upload-android/)
 - [编译原理在前端应用](https://jiangtao.vercel.app/2022/08/18/compiler-in-fe/)
 - [搭建一个通用的脚手架](https://jiangtao.vercel.app/2018/01/29/project-next-cli/)
 - [npm依赖版本锁定和管理](https://jiangtao.vercel.app/2017/12/01/version-lock/)
