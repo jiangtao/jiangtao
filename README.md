@@ -29,11 +29,11 @@
 <!-- BLOG-POST-LIST:START -->
 - [容器化RN-H5 离线加载 iOS 踩坑记](https://blog.jerret.me/posts/2026/02/25/react-native-h5-ios-fix/)
 - [AI实践-搭建自动化博客](https://blog.jerret.me/posts/2026/02/12/ai-automated-blog/)
+- [思考：未来产研形态迭代的交付产物](https://blog.jerret.me/posts/2025/02/27/future-rd-evolution/)
 - [H5拍照功能Android中无法使用](https://blog.jerret.me/posts/2025/02/04/webview-file-upload-android/)
 - [编译原理在前端应用](https://blog.jerret.me/posts/2022/08/18/compiler-in-fe/)
 - [搭建一个通用的脚手架](https://blog.jerret.me/posts/2018/01/29/project-next-cli/)
 - [npm依赖版本锁定和管理](https://blog.jerret.me/posts/2017/12/01/version-lock/)
 - [从一个爬虫初识puppeteer](https://blog.jerret.me/posts/2017/11/08/puppeteer-start/)
-- [vue中的mixins实践](https://blog.jerret.me/posts/2017/09/13/vue-mixin-apply/)
 <!-- BLOG-POST-LIST:END -->
 </div>
