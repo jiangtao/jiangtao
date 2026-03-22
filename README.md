@@ -12,7 +12,7 @@
 
 - ✨ jiangtao, FrontEnd, FullStack Devloper, Focus on Web/Hybrid/Electron/Node/RN
 - 🌱 Find a job or chance in the feature 🚀
-- 👯 Worked in [meituan](https://github.com/meituan) 2020-2020，worked in [YiChuang wudaima](https://www.wudaima.com)/2018-2020。Loved at Lowcode/NoCode. Currently exploring low code business delivery efficiency practices.
+- 👯 Worked in [meituan](https://github.com/meituan) 2020-2025，worked in [YiChuang wudaima](https://www.wudaima.com)/2018-2020。Loved at Lowcode/NoCode. Currently exploring low code business delivery efficiency practices.
 - 📝 [Blog](https://github.com/jiangtao/blog) [YuQue Notes](https://www.yuque.com/imjt)
 - 💬 Skill: **CSS/Javascript/Node.js/Mongo/MySQL**
 - 📫 Contact Me: **321jiangtao@gmail.com**
